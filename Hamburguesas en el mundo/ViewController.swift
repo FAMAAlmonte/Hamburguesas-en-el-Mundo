@@ -34,8 +34,6 @@ class ViewController: UIViewController {
         pais.text = paises.obtenPais()
         hamburguesa.text = hamburguesas.obtenHamburguesa()
         
-        
-        
     }
     
 

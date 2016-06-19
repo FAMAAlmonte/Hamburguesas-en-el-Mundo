@@ -16,7 +16,7 @@ class ColeccionDePaises {
         return paises[pais]
         
         }
-}
+    }
 
     
 class ColeccionDeHamburguesas {
